@@ -1,0 +1,97 @@
+Repo Name,PR Number,Title,Author Login,State,Created At,Updated At,Merged At,Issue Id,Author Name,Author Email
+chatbot-mining-industries,1,initial commit,kedar0705,closed,2023-09-17T15:24:23Z,2023-09-17T15:24:51Z,2023-09-17T15:24:51Z,1,N/A,N/A
+Admin-Ecom,7,order preview page added,Sujanraj0306,closed,2024-09-10T18:21:08Z,2024-09-10T18:21:34Z,2024-09-10T18:21:34Z,7,N/A,N/A
+Admin-Ecom,6,Inventory fully done,Harishkumar3114,closed,2024-09-06T17:44:01Z,2024-09-06T17:44:12Z,2024-09-06T17:44:12Z,6,N/A,N/A
+Admin-Ecom,5,Inventory page partially done,Harishkumar3114,closed,2024-09-04T18:55:17Z,2024-09-04T18:57:01Z,2024-09-04T18:55:55Z,5,N/A,N/A
+Admin-Ecom,4,Bugfix,Harishkumar3114,closed,2024-09-04T15:47:23Z,2024-09-04T15:47:41Z,2024-09-04T15:47:41Z,4,N/A,N/A
+Admin-Ecom,3,Bugfix,Harishkumar3114,closed,2024-09-03T18:12:32Z,2024-09-03T18:12:56Z,2024-09-03T18:12:55Z,3,N/A,N/A
+Admin-Ecom,2,created the file structure,Dhyaneshwaran02,closed,2024-05-11T00:47:11Z,2024-05-11T15:24:45Z,,2,N/A,N/A
+Admin-Ecom,1,Backend,kedar0705,closed,2024-05-04T05:59:57Z,2024-05-04T06:00:17Z,2024-05-04T06:00:16Z,1,N/A,N/A
+assistant-poc,9,Updated parse Qp,kedar0705,closed,2024-01-09T06:38:07Z,2024-01-09T06:38:37Z,2024-01-09T06:38:37Z,9,N/A,N/A
+assistant-poc,8,Refactor code,kedar0705,closed,2024-01-09T06:21:44Z,2024-01-09T06:22:32Z,2024-01-09T06:22:31Z,8,N/A,N/A
+assistant-poc,7,Modified prompt,kedar0705,closed,2024-01-08T06:33:30Z,2024-01-08T06:34:23Z,2024-01-08T06:34:23Z,7,N/A,N/A
+assistant-poc,6,OCR,kedar0705,closed,2023-12-31T13:15:51Z,2023-12-31T13:16:12Z,2023-12-31T13:16:12Z,6,N/A,N/A
+assistant-poc,5,Update requirements.txt with new dependencies,kedar0705,closed,2023-12-24T08:07:46Z,2023-12-24T08:08:01Z,2023-12-24T08:08:01Z,5,N/A,N/A
+assistant-poc,4,Add PDF processing using fitz library,kedar0705,closed,2023-12-24T08:03:51Z,2023-12-24T08:04:08Z,2023-12-24T08:04:08Z,4,N/A,N/A
+assistant-poc,3,Add instruction for extracting text and parsing tables from image,kedar0705,closed,2023-12-24T04:22:17Z,2023-12-24T04:22:30Z,2023-12-24T04:22:30Z,3,N/A,N/A
+assistant-poc,2,Add prompt_parts initialization,kedar0705,closed,2023-12-24T04:09:08Z,2023-12-24T04:09:23Z,2023-12-24T04:09:23Z,2,N/A,N/A
+assistant-poc,1,Vision,kedar0705,closed,2023-12-24T03:22:28Z,2023-12-24T03:22:56Z,2023-12-24T03:22:55Z,1,N/A,N/A
+backend,1,File architecture,Mukish45,closed,2023-12-16T13:32:09Z,2023-12-20T09:49:53Z,2023-12-20T09:49:53Z,1,N/A,N/A
+mcq,1,Logic change,Mukish45,closed,2024-01-06T02:13:10Z,2024-01-06T02:13:24Z,2024-01-06T02:13:24Z,1,N/A,N/A
+omr,4,Omr coordinates,SriDharshana,closed,2024-02-22T12:34:47Z,2024-02-22T12:35:46Z,2024-02-22T12:35:46Z,4,N/A,N/A
+omr,3,Added images,SriDharshana,closed,2024-02-21T15:28:14Z,2024-02-21T15:28:23Z,2024-02-21T15:28:23Z,3,N/A,N/A
+omr,2,Merge pull request #1 from SeyarkAI-Tech/omr_coordinates,SriDharshana,closed,2024-02-21T15:24:12Z,2024-02-21T15:24:23Z,2024-02-21T15:24:23Z,2,N/A,N/A
+omr,1,added code for coordinates mapping,SriDharshana,closed,2024-02-21T02:34:42Z,2024-02-21T02:34:52Z,2024-02-21T02:34:52Z,1,N/A,N/A
+simulation-MVP,9,Db,kedar0705,closed,2024-03-21T15:07:23Z,2024-03-21T15:11:08Z,2024-03-21T15:11:08Z,9,N/A,N/A
+simulation-MVP,8,Origin/bugfix-muhilan,kedar0705,closed,2024-03-15T10:11:41Z,2024-03-15T10:13:22Z,2024-03-15T10:13:21Z,8,N/A,N/A
+simulation-MVP,7,Model mvp,Mukish45,closed,2024-01-16T09:03:57Z,2024-01-16T09:04:11Z,2024-01-16T09:04:11Z,7,N/A,N/A
+simulation-MVP,6,Model mvp,Mukish45,closed,2024-01-13T07:00:18Z,2024-01-13T07:00:29Z,2024-01-13T07:00:29Z,6,N/A,N/A
+simulation-MVP,5,Merge pull request #4 from Administrative-assistant/MVP,Mukish45,closed,2024-01-13T06:59:03Z,2024-01-13T06:59:14Z,2024-01-13T06:59:14Z,5,N/A,N/A
+simulation-MVP,4,Mvp,Mukish45,closed,2024-01-13T06:50:15Z,2024-01-13T06:58:15Z,2024-01-13T06:58:15Z,4,N/A,N/A
+simulation-MVP,3,Mvp,Mukish45,closed,2024-01-10T09:24:43Z,2024-01-10T09:24:51Z,2024-01-10T09:24:51Z,3,N/A,N/A
+simulation-MVP,2,Merge pull request #1 from Administrative-assistant/MVP,Mukish45,closed,2024-01-10T09:23:19Z,2024-01-10T09:23:33Z,2024-01-10T09:23:33Z,2,N/A,N/A
+simulation-MVP,1,added login fileupload,Mukish45,closed,2024-01-09T15:58:39Z,2024-01-09T15:58:48Z,2024-01-09T15:58:48Z,1,N/A,N/A
+colomboadmin_vue,15,Bump json-schema from 0.2.3 to 0.4.0,dependabot[bot],open,2022-09-05T19:46:54Z,2023-06-03T13:06:20Z,,15,N/A,N/A
+colomboadmin_vue,14,Bump moment from 2.29.2 to 2.29.4,dependabot[bot],closed,2022-09-05T19:40:46Z,2022-09-05T19:41:23Z,2022-09-05T19:41:14Z,14,N/A,N/A
+colomboadmin_vue,13,UI,harimuruga23,closed,2022-09-05T16:09:56Z,2022-09-05T16:11:45Z,2022-09-05T16:10:35Z,13,N/A,N/A
+colomboadmin_vue,12,Bump eventsource from 1.1.0 to 1.1.2,dependabot[bot],closed,2022-06-25T05:59:18Z,2022-06-25T06:36:35Z,2022-06-25T06:36:27Z,12,N/A,N/A
+colomboadmin_vue,11,Bump protobufjs from 6.11.2 to 6.11.3,dependabot[bot],closed,2022-06-25T05:58:51Z,2022-06-25T06:36:55Z,2022-06-25T06:36:38Z,11,N/A,N/A
+colomboadmin_vue,10,Bump shell-quote from 1.7.2 to 1.7.3,dependabot[bot],closed,2022-06-25T05:58:48Z,2022-06-25T06:36:55Z,2022-06-25T06:36:47Z,10,N/A,N/A
+colomboadmin_vue,9,Bump moment from 2.29.1 to 2.29.2,dependabot[bot],closed,2022-06-25T05:58:42Z,2022-06-25T06:37:05Z,2022-06-25T06:36:57Z,9,N/A,N/A
+colomboadmin_vue,8,UI 25/06/2022,harimuruga23,closed,2022-06-23T11:50:14Z,2022-06-23T11:52:02Z,2022-06-23T11:52:02Z,8,N/A,N/A
+colomboadmin_vue,7,Bump async from 2.6.3 to 2.6.4,dependabot[bot],closed,2022-06-07T14:21:07Z,2022-06-07T14:22:50Z,2022-06-07T14:22:39Z,7,N/A,N/A
+colomboadmin_vue,6,Bump minimist from 1.2.5 to 1.2.6,dependabot[bot],closed,2022-04-03T02:53:24Z,2022-04-03T03:29:17Z,2022-04-03T03:29:08Z,6,N/A,N/A
+colomboadmin_vue,5,Bump url-parse from 1.5.8 to 1.5.10,dependabot[bot],closed,2022-03-21T08:05:15Z,2022-03-21T08:51:40Z,2022-03-21T08:51:31Z,5,N/A,N/A
+colomboadmin_vue,4,Bump url-parse from 1.5.3 to 1.5.8,dependabot[bot],closed,2022-02-20T07:01:42Z,2022-02-20T07:02:18Z,2022-02-20T07:02:11Z,4,N/A,N/A
+colomboadmin_vue,3,Bump node-sass from 4.14.1 to 7.0.0,dependabot[bot],closed,2022-02-15T14:56:41Z,2022-02-15T14:57:58Z,2022-02-15T14:57:47Z,3,N/A,N/A
+colomboadmin_vue,2,Bump shelljs from 0.8.4 to 0.8.5,dependabot[bot],closed,2022-02-15T14:55:00Z,2022-02-15T14:55:31Z,2022-02-15T14:55:21Z,2,N/A,N/A
+colomboadmin_vue,1,Bump follow-redirects from 1.14.4 to 1.14.8,dependabot[bot],closed,2022-02-15T14:53:28Z,2022-02-15T14:54:06Z,2022-02-15T14:53:57Z,1,N/A,N/A
+colombomail_vue,72,Build(deps): Bump protobufjs from 6.11.3 to 6.11.4,dependabot[bot],open,2023-08-15T21:24:55Z,2023-08-15T21:24:56Z,,72,N/A,N/A
+colombomail_vue,71,Build(deps-dev): Bump word-wrap from 1.2.3 to 1.2.4,dependabot[bot],open,2023-07-19T09:14:46Z,2023-07-19T09:14:48Z,,71,N/A,N/A
+colombomail_vue,70,Build(deps): Bump semver from 5.7.1 to 5.7.2,dependabot[bot],open,2023-07-11T10:33:44Z,2023-07-11T10:33:45Z,,70,N/A,N/A
+colombomail_vue,69,Build(deps): Bump tough-cookie and @vue/cli-plugin-router,dependabot[bot],open,2023-07-08T02:04:37Z,2023-07-08T02:04:39Z,,69,N/A,N/A
+colombomail_vue,68,Build(deps): Bump @grpc/grpc-js from 1.6.9 to 1.8.17,dependabot[bot],open,2023-07-05T23:24:43Z,2023-07-05T23:24:45Z,,68,N/A,N/A
+colombomail_vue,67,Build(deps): Bump @sideway/formula from 3.0.0 to 3.0.1,dependabot[bot],closed,2023-03-17T16:42:40Z,2023-03-18T13:30:47Z,2023-03-18T13:30:39Z,67,N/A,N/A
+colombomail_vue,66,Build(deps): Bump webpack from 5.75.0 to 5.76.1,dependabot[bot],closed,2023-03-15T08:08:37Z,2023-03-17T16:42:13Z,2023-03-17T16:42:04Z,66,N/A,N/A
+colombomail_vue,65,"Build(deps): Bump json5, @vue/cli-plugin-babel and webpack",dependabot[bot],closed,2023-01-02T08:17:13Z,2023-01-02T18:12:28Z,2023-01-02T18:12:17Z,65,N/A,N/A
+colombomail_vue,64,Build(deps): Bump qs from 6.5.2 to 6.5.3,dependabot[bot],closed,2022-12-08T14:14:43Z,2022-12-10T15:45:36Z,2022-12-10T15:45:26Z,64,N/A,N/A
+colombomail_vue,63,Build(deps): Bump decode-uri-component from 0.2.0 to 0.2.2,dependabot[bot],closed,2022-12-08T09:57:45Z,2022-12-08T14:14:26Z,2022-12-08T14:13:15Z,63,N/A,N/A
+colombomail_vue,62,Build(deps): Bump loader-utils from 1.4.1 to 1.4.2,dependabot[bot],closed,2022-11-18T00:33:54Z,2022-11-18T17:10:59Z,2022-11-18T17:10:50Z,62,N/A,N/A
+colombomail_vue,61,Build(deps): Bump terser from 4.8.0 to 4.8.1,dependabot[bot],closed,2022-11-11T13:22:18Z,2022-11-11T13:30:54Z,2022-11-11T13:30:41Z,61,N/A,N/A
+colombomail_vue,60,Bump json-schema and jsprim,dependabot[bot],closed,2022-11-11T13:22:07Z,2022-11-11T13:30:40Z,2022-11-11T13:30:31Z,60,N/A,N/A
+colombomail_vue,59,Build(deps): Bump follow-redirects from 1.14.7 to 1.15.2,dependabot[bot],closed,2022-11-11T13:22:00Z,2022-11-11T13:30:58Z,2022-11-11T13:30:49Z,59,N/A,N/A
+colombomail_vue,58,Build(deps): Bump minimatch from 3.0.4 to 3.1.2,dependabot[bot],closed,2022-11-10T15:55:57Z,2022-11-11T13:20:13Z,2022-11-11T13:20:03Z,58,N/A,N/A
+colombomail_vue,57,Build(deps): Bump glob-parent and @vue/cli-plugin-eslint,dependabot[bot],closed,2022-11-09T18:15:56Z,2022-11-10T15:54:47Z,2022-11-10T15:54:37Z,57,N/A,N/A
+colombomail_vue,56,Build(deps): Bump loader-utils from 1.4.0 to 1.4.1,dependabot[bot],closed,2022-11-08T23:03:15Z,2022-11-09T18:14:40Z,2022-11-09T18:14:28Z,56,N/A,N/A
+colombomail_vue,55,Build(deps): Bump ansi-regex from 3.0.0 to 3.0.1,dependabot[bot],closed,2022-09-22T08:57:37Z,2022-09-22T09:09:58Z,2022-09-22T09:09:45Z,55,N/A,N/A
+colombomail_vue,54,Build(deps): Bump vuetify from 2.5.14 to 2.6.10,dependabot[bot],closed,2022-09-21T22:27:21Z,2022-09-22T08:56:23Z,2022-09-22T08:56:14Z,54,N/A,N/A
+colombomail_vue,52,merge: develop into main,VikashPR,closed,2022-08-22T16:50:09Z,2022-08-23T01:42:52Z,2022-08-23T01:42:52Z,52,N/A,N/A
+colombomail_vue,51,fix: pagination load more add,VikashPR,closed,2022-08-22T16:48:58Z,2022-08-22T16:49:17Z,2022-08-22T16:49:17Z,51,N/A,N/A
+colombomail_vue,50,Merge pull request #49 from TeamWebilicious/feature/myOrders-pagination,VikashPR,closed,2022-08-18T08:52:13Z,2022-08-31T04:39:56Z,2022-08-18T08:53:50Z,50,N/A,N/A
+colombomail_vue,49,Feature/my orders pagination,VikashPR,closed,2022-08-18T08:51:48Z,2022-08-18T08:51:59Z,2022-08-18T08:51:59Z,49,N/A,N/A
+colombomail_vue,48,"Revert ""fix(myOrder Details): broken link""",VikashPR,closed,2022-08-18T08:50:23Z,2022-08-18T08:50:31Z,2022-08-18T08:50:31Z,48,N/A,N/A
+colombomail_vue,47,fix(myOrder Details): broken link,VikashPR,closed,2022-08-18T08:49:14Z,2022-08-18T08:50:09Z,2022-08-18T08:50:09Z,47,N/A,N/A
+colombomail_vue,46,UI,harimuruga23,closed,2022-08-18T01:52:27Z,2022-08-18T01:57:10Z,2022-08-18T01:57:10Z,46,N/A,N/A
+colombomail_vue,45,UI,harimuruga23,closed,2022-08-18T01:42:11Z,2022-08-18T01:44:36Z,,45,N/A,N/A
+colombomail_vue,44,Build(deps): Bump follow-redirects from 1.14.7 to 1.15.1,dependabot[bot],closed,2022-08-16T16:10:55Z,2022-08-16T16:22:15Z,2022-08-16T16:22:07Z,44,N/A,N/A
+colombomail_vue,43,Build(deps): Bump json-schema from 0.2.3 to 0.4.0,dependabot[bot],closed,2022-08-16T03:08:06Z,2022-08-16T03:09:06Z,2022-08-16T03:08:54Z,43,N/A,N/A
+colombomail_vue,42,Build(deps): Bump node-forge and @vue/cli-service,dependabot[bot],closed,2022-08-15T18:28:35Z,2022-08-16T03:07:17Z,2022-08-16T03:03:04Z,42,N/A,N/A
+colombomail_vue,41,Build(deps): Bump node-fetch and firebase,dependabot[bot],closed,2022-08-15T18:28:16Z,2022-08-16T02:51:24Z,2022-08-16T02:51:14Z,41,N/A,N/A
+colombomail_vue,40,Build(deps): Bump moment from 2.29.2 to 2.29.4,dependabot[bot],closed,2022-08-15T18:23:06Z,2022-08-15T18:23:45Z,2022-08-15T18:23:37Z,40,N/A,N/A
+colombomail_vue,39,feat: myOrder pagination add,VikashPR,closed,2022-08-15T18:20:22Z,2022-08-17T09:17:03Z,2022-08-17T09:17:02Z,39,N/A,N/A
+colombomail_vue,38,Build(deps): Bump terser from 4.8.0 to 4.8.1,dependabot[bot],closed,2022-07-21T21:13:04Z,2022-08-15T18:22:13Z,2022-08-15T18:22:04Z,38,N/A,N/A
+colombomail_vue,37,UI 25/6/2022,harimuruga23,closed,2022-06-23T11:46:24Z,2022-06-23T11:48:53Z,2022-06-23T11:48:52Z,37,N/A,N/A
+colombomail_vue,36,Build(deps): Bump protobufjs from 6.11.2 to 6.11.3,dependabot[bot],closed,2022-06-03T00:53:33Z,2022-06-03T07:41:56Z,2022-06-03T07:41:45Z,36,N/A,N/A
+colombomail_vue,35,Build(deps): Bump eventsource from 1.1.0 to 1.1.1,dependabot[bot],closed,2022-06-01T22:35:12Z,2022-06-03T07:43:10Z,2022-06-03T07:43:02Z,35,N/A,N/A
+colombomail_vue,27,Build(deps): Bump async from 2.6.3 to 2.6.4,dependabot[bot],closed,2022-04-29T17:07:55Z,2022-04-30T06:01:43Z,2022-04-30T06:01:35Z,27,N/A,N/A
+colombomail_vue,26,Build(deps): Bump moment from 2.29.1 to 2.29.2,dependabot[bot],closed,2022-04-09T15:48:09Z,2022-04-09T16:09:06Z,2022-04-09T16:08:56Z,26,N/A,N/A
+colombomail_vue,25,Build(deps): Bump follow-redirects from 1.14.7 to 1.14.9,dependabot[bot],closed,2022-03-25T04:45:19Z,2022-03-25T04:45:52Z,2022-03-25T04:45:45Z,25,N/A,N/A
+colombomail_vue,24,Bump minimist from 1.2.5 to 1.2.6,dependabot[bot],closed,2022-03-25T04:41:58Z,2022-03-25T04:44:37Z,2022-03-25T04:44:23Z,24,N/A,N/A
+colombomail_vue,23,Bump follow-redirects from 1.14.7 to 1.14.9,dependabot[bot],closed,2022-03-25T04:40:30Z,2022-03-25T04:42:07Z,2022-03-25T04:41:57Z,23,N/A,N/A
+colombomail_vue,22,Colombo mail release ,VikashPR,closed,2022-03-22T17:15:13Z,2022-07-05T09:27:43Z,2022-03-25T04:38:14Z,22,N/A,N/A
+colombomail_vue,6,Bump url-parse from 1.5.7 to 1.5.10,dependabot[bot],closed,2022-02-28T04:36:23Z,2022-03-20T01:19:59Z,2022-03-20T01:18:04Z,6,N/A,N/A
+colombomail_vue,5,Bump url-parse from 1.5.3 to 1.5.7,dependabot[bot],closed,2022-02-19T16:31:25Z,2022-02-20T07:02:45Z,2022-02-20T07:02:37Z,5,N/A,N/A
+colombomail_vue,4,Bump follow-redirects from 1.14.7 to 1.14.8,dependabot[bot],closed,2022-02-15T12:13:43Z,2022-02-20T07:02:59Z,2022-02-20T07:02:46Z,4,N/A,N/A
+colombomail_vue,3,Bump follow-redirects from 1.14.5 to 1.14.7,dependabot[bot],closed,2022-02-06T05:43:10Z,2022-02-06T05:47:47Z,2022-02-06T05:47:36Z,3,N/A,N/A
+colombomail_vue,2,Bump shelljs from 0.8.4 to 0.8.5,dependabot[bot],closed,2022-02-06T05:43:10Z,2022-02-06T05:45:58Z,2022-02-06T05:45:46Z,2,N/A,N/A
+colombomail_vue,1,Bug fixes,harimuruga23,closed,2021-11-17T10:46:32Z,2021-11-17T10:46:39Z,2021-11-17T10:46:39Z,1,N/A,N/A
